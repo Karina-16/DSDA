@@ -1,3 +1,3 @@
-# Diamond price prediction:
-Develop a machine learning model to predict diamond prices based on attributes like carat, cut, color, and clarity, using data preprocessing, feature engineering, and model optimization. 
-Deploy the model via a user-friendly web application for real-time predictions.
+# Hypothyroid prediction:
+   Hypothyroidism can be hard to diagnose early because its symptoms are common in many other conditions. Traditional diagnosis methods are often slow and expensive. By using machine learning, we can quickly analyze patient data to predict hypothyroidism more accurately. 
+                    This project aims to improve early detection and treatment, ultimately enhancing patient outcomes and making healthcare more efficient.
